@@ -1,0 +1,24 @@
+CLAU24 — VERSIÓN PLANA PARA GITHUB
+
+ESTA VERSIÓN ESTÁ HECHA ESPECÍFICAMENTE PARA SUBIRLA DESDE EL NAVEGADOR DE GITHUB.
+
+NO HAY SUBCARPETAS.
+TODOS LOS ARCHIVOS TIENEN NOMBRES DIFERENTES.
+
+PASOS:
+1. Descomprime el ZIP.
+2. En GitHub: Add file > Upload files.
+3. Selecciona TODO lo que hay dentro de esta carpeta.
+4. Arrástralo a GitHub.
+5. Antes del commit, confirma que aparece index.html y que NO hay archivos llamados index (1).html, index (2).html, etc.
+6. Commit changes.
+7. En Netlify, Publish directory debe ser: .
+
+Ejemplos del blog:
+- blog.html
+- blog-averia-casa-estando-fuera-que-hacer.html
+- ca-blog.html
+- en-blog.html
+- fr-blog.html
+
+He actualizado los enlaces internos, canonical, hreflang y sitemap para esta estructura plana.

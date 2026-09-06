@@ -31,3 +31,12 @@ NO IMPLEMENTADO A PROPÓSITO
 - FAQ schema: Google ya no muestra normalmente rich results FAQ para sitios comerciales comunes.
 - LocalBusiness con dirección inventada: no se debe añadir una dirección que no sea real/publicable.
 - Keywords meta tag: Google no la usa para ranking.
+
+
+MULTILINGÜE v1.31
+- Sitio comercial completo en ES / CAT / EN / FR.
+- URLs independientes para SEO, no traducción solo por JavaScript.
+- hreflang + x-default en Inicio, Servicios, Visitas y Quiénes somos.
+- Blog conectado a la homepage de su idioma.
+- Sitemap actualizado con todas las variantes indexables.
+- Formularios de cada idioma mantienen Netlify Forms y redirigen a una página de gracias localizada.

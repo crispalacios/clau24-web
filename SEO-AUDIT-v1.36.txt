@@ -1,0 +1,21 @@
+CLAU24 v1.36 — SEO FINAL
+Fecha: 2026-09-06
+
+URLs indexables incluidas en sitemap: 40
+Errores de validación detectados: 0
+
+Ajustes:
+- Sitemap XML generado desde URLs canónicas indexables.
+- robots.txt con referencia al sitemap.
+- Canonical del home español unificado en https://clau24.com/
+- Redirección /index.html -> /.
+- Datos estructurados del Home actualizados con 4 planes: 0 / 29 / 79 / 139 EUR.
+- Organization + WebSite + Service.
+- Service schema en Servicios y Visitas.
+- Metadatos de Servicios reforzados alrededor de “acceso a vivienda”.
+- Legal/noindex excluido del sitemap.
+- Páginas internas excluidas.
+- Favicon .ico generado.
+
+VALIDACIÓN:
+OK — sin enlaces internos rotos ni faltantes críticos detectados.

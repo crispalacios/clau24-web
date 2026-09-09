@@ -1,0 +1,15 @@
+CLAU24 v1.33 — PRICING FREE
+
+Cambios:
+- Nuevo plan Clau Free 0 €/mes.
+- Plan Solo llaves renombrado a Llaves.
+- Tabla completa Free / Llaves / Esencial / Confianza.
+- Acceso a vivienda separado de asistencia a técnico/proveedor.
+- Programado = 24 h de antelación.
+- Urgente / mismo día diferenciado y sujeto a disponibilidad.
+- Reglas de horario: 8:00–20:00; suplementos +25 / +50 / domingos-festivos +25; solo se aplica el mayor.
+- Aviso claro: Clau24 no es cerrajería y no manipula cerraduras.
+- Caso de uso “me he quedado fuera”.
+- Guest Access / HomeExchange restaurado con extras de llaves por separado y suplementos fuera de horario.
+- Servicios actualizados para no contradecir la nueva tabla.
+- Cambios aplicados en ES / CAT / EN / FR.

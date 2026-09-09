@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+Disallow: /admin.html
+Disallow: /tabulador-interno.html
+
 Sitemap: https://clau24.com/sitemap.xml

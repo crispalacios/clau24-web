@@ -1,42 +1,11 @@
-CLAU24 — SEO FULL v1.29
-
-YA IMPLEMENTADO EN CÓDIGO
-- Canonical en páginas públicas
-- robots.txt
-- sitemap.xml
-- hreflang en blog ES/CAT/EN/FR
-- Titles + meta descriptions
-- Open Graph URL / site name / locale
-- Twitter title + description
-- Organization + WebSite + WebPage + Service structured data
-- BreadcrumbList structured data en páginas comerciales y blog
-- BlogPosting estructurado
-- Responsive móvil
-- Páginas internas no indexables / bloqueadas según configuración existente
-- Email de marca: hola@clau24.com
-
-PENDIENTE FUERA DEL CÓDIGO
-1. Google Search Console: propiedad de dominio clau24.com
-2. Verificación DNS TXT en Namecheap
-3. Enviar https://clau24.com/sitemap.xml
-4. Solicitar indexación de homepage + páginas principales
-5. Crear Perfil de Empresa en Google si Clau24 cumple elegibilidad como negocio de área de servicio
-6. Sustituir testimonios ilustrativos por testimonios reales antes de hacer promoción local
-7. Conseguir reseñas reales en Google Business Profile
-8. Crear contenido nuevo cada mes basado en consultas reales de Search Console
-9. Evaluar páginas comerciales en inglés si el tráfico internacional lo justifica
-10. GA4 opcional: instalar solo con configuración de privacidad/cookies adecuada para España/UE
-
-NO IMPLEMENTADO A PROPÓSITO
-- FAQ schema: Google ya no muestra normalmente rich results FAQ para sitios comerciales comunes.
-- LocalBusiness con dirección inventada: no se debe añadir una dirección que no sea real/publicable.
-- Keywords meta tag: Google no la usa para ranking.
 
 
-MULTILINGÜE v1.31
-- Sitio comercial completo en ES / CAT / EN / FR.
-- URLs independientes para SEO, no traducción solo por JavaScript.
-- hreflang + x-default en Inicio, Servicios, Visitas y Quiénes somos.
-- Blog conectado a la homepage de su idioma.
-- Sitemap actualizado con todas las variantes indexables.
-- Formularios de cada idioma mantienen Netlify Forms y redirigen a una página de gracias localizada.
+LEGAL v1.34
+- Aviso legal / Avís legal / Legal notice / Mentions légales
+- Política de privacidad ES/CAT/EN/FR
+- Términos y condiciones ES/CAT/EN/FR
+- Política de cookies ES/CAT/EN/FR
+- Primera capa de privacidad en los formularios de contacto
+- Enlaces legales añadidos a los footers públicos
+- Páginas legales con noindex,follow
+PENDIENTE DE NEGOCIO: confirmar si todos los precios publicados son precios finales con IVA incluido. La normativa de consumo exige informar del precio total con impuestos antes de contratar.

@@ -1,0 +1,54 @@
+CLAU24 — SEARCH CONSOLE CHECKLIST
+
+1. PUBLICA PRIMERO ESTA v1.36 EN GITHUB / NETLIFY.
+
+2. VERIFICA LA PROPIEDAD DE DOMINIO
+Si clau24.com todavía aparece como no verificada:
+- Search Console > selecciona clau24.com
+- Configuración > Verificación de la propiedad
+- Copia el registro TXT de Google
+- Namecheap > Domain List > clau24.com > Manage > Advanced DNS
+- Add New Record > TXT Record
+- Host: @
+- Value: google-site-verification=... (exactamente el valor de Google)
+- TTL: Automatic
+- No borres ese TXT después de verificar.
+
+3. NO SE SUBE EL SITEMAP COMO ARCHIVO A GOOGLE
+El archivo debe estar publicado aquí:
+https://clau24.com/sitemap.xml
+
+En Search Console:
+Indexación > Sitemaps
+En “Añadir un sitemap”, escribe:
+sitemap.xml
+y pulsa Enviar.
+
+4. SOLICITA INDEXACIÓN SOLO DE LAS URL MÁS IMPORTANTES
+Usa Inspección de URLs > Probar URL publicada > Solicitar indexación para:
+https://clau24.com/
+https://clau24.com/servicios.html
+https://clau24.com/visitas.html
+https://clau24.com/en.html
+https://clau24.com/ca.html
+https://clau24.com/fr.html
+https://clau24.com/blog.html
+
+No hace falta solicitar manualmente las 40 URLs. El sitemap se encarga de indicar el resto.
+
+5. REVISA DESPUÉS
+- Search Console > Indexación > Páginas
+- Search Console > Rendimiento > Resultados de búsqueda
+- Comprueba que Google seleccione las canónicas correctas.
+- Los documentos legales, páginas de gracias y demos internas están intencionadamente fuera del sitemap/noindex.
+
+SEO TÉCNICO v1.36
+- robots.txt restaurado
+- sitemap.xml restaurado
+- canonical del Home corregido a https://clau24.com/
+- /index.html redirige 301 a /
+- hreflang ES/CAT/EN/FR + x-default en páginas comerciales
+- schema actualizado para Clau Free + Llaves + Esencial + Confianza
+- WebSite + Organization + Service schema
+- Servicios actualizado para “Acceso a vivienda”
+- favicon.ico restaurado

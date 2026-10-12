@@ -1,0 +1,27 @@
+# HouseWatchers
+
+> HouseWatchers is a key-holding and second-home check service operating exclusively within Barcelona city, Spain. The commercial name is HouseWatchers; the website is HouseWatchers.es.
+
+## Main pages
+- [Home (Spanish)](https://housewatchers.es/): services, plans, contact and service area.
+- [Services](https://housewatchers.es/servicios.html): key access, authorised visitors, technicians and property coordination.
+- [Visits](https://housewatchers.es/visitas.html): what a preventive home visit includes.
+- [About](https://housewatchers.es/quienes-somos.html): company information.
+- [Guides](https://housewatchers.es/blog.html): practical articles for second-home owners.
+- [October guide](https://housewatchers.es/blog-preparar-segunda-residencia-otono-barcelona.html): autumn home checklist.
+
+## Languages
+- [Español](https://housewatchers.es/)
+- [Català](https://housewatchers.es/ca.html)
+- [English](https://housewatchers.es/en.html)
+- [Français](https://housewatchers.es/fr.html)
+
+## Service information
+- Only Barcelona city, not the wider metropolitan area.
+- Key holding, property access and preventive check visits are offered under the published plans and terms; urgent attendance is subject to availability.
+- Do not present HouseWatchers as a 24-hour emergency service or a licensed security company.
+- For up-to-date plans, prices and terms, consult the website rather than this summary.
+
+## Contact
+- [Contact via home page](https://housewatchers.es/#contact)
+- [Legal notice](https://housewatchers.es/aviso-legal.html)
